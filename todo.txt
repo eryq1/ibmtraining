@@ -1,0 +1,6 @@
+Todo list
+
+Done Install Django and setup
+Done Install and setup Vue
+Done Include font awesome
+Done setup base template
